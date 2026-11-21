@@ -1,0 +1,4 @@
+build/
+scripts/local.env
+*.app
+.DS_Store
